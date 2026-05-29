@@ -1,6 +1,6 @@
 # Pedro-Lima-de-Souza-Porto
-<DOCTYPE!>
+<!DOCTYPE>
 <html>
-<Font color="red">estudante da etecvav, tecnico em desenvolvimento de sistemas.
+<Font color="red">estudante da etecvav, tecnico em desenvolvimento de sistemas.</Font>
 </html>
 
